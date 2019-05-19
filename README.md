@@ -15,7 +15,7 @@ Data Describtion :
   10. Unemployement 
   
 
-Solution : 
+## Solution : 
   
   I have deploye the data on two models 
     1. Linear Regression (simple one)
